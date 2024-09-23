@@ -20,7 +20,6 @@ export default defineConfig({
       //   ]
       // }
     ],
-
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/ug8Y4DmseR' },
       { icon: 'x', link: 'https://x.com/orbstack_jp' }
